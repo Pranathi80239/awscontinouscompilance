@@ -1,0 +1,6 @@
+resource_id,resource_type,rule_name,configuration_change,compliance_status,alert_generated,remediation_status
+lab-s3-001,AWS::S3::Bucket,S3 Public Access Security,Private configuration,COMPLIANT,No,Not Required
+lab-s3-001,AWS::S3::Bucket,S3 Public Access Security,Unsafe public access setting,NON_COMPLIANT,Yes,Pending
+lab-s3-001,AWS::S3::Bucket,S3 Public Access Security,Secure configuration restored,COMPLIANT,Yes,Completed
+lab-s3-002,AWS::S3::Bucket,S3 Public Access Security,Private configuration,COMPLIANT,No,Not Required
+lab-s3-003,AWS::S3::Bucket,S3 Public Access Security,Unsafe access setting,NON_COMPLIANT,Yes,Completed
