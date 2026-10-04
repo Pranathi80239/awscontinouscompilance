@@ -1,8 +1,12 @@
 # AWS Config Rules for Continuous Compliance Monitoring and Automated Remediation
 
-**Author:** RATNALA PRANATHI  
+Team:
+Ratnala Pranathi      -     2400080239
+Vyshnavi Gaddam       -     2400080248
+Venkata Sravani Cheerala  - 2400080249
+Siva Datha                - 2400080259
 **GitHub:** Pranathi80239  
-**Project:** AWS Config Rules for Continuous Compliance Monitoring and Automated Remediation
+**Project:** AWS Config Rules for Continuous Compliance .
 
 ## 1. Project Overview
 
